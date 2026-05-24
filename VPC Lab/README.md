@@ -86,7 +86,7 @@ To achieve this, the company designs a VPC architecture using:
 * EC2 Web Servers
 * Security Groups
 
-![Lab Scenario](assets/Lab%20scenario.png)
+![Lab Scenario](assets/lab%20scenario.png)
 
 ---
 
