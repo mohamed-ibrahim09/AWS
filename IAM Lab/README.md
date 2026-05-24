@@ -150,7 +150,7 @@ Conversely, `user-3` belongs to the **EC2-Admin** group and possesses the elevat
 ![User3 Stopping EC2 Instances](assets/User3%20Stopping%20the%20instances.png)
 
 ### 🏆 Final Lab Validation
-Upon successful assignment of all users and verification of correct access scopes, the lab requirements are fully satisfied.
+Upon successful assignment of all users and verification of correct access scopes, the lab requirements are fully satisfied **Grade 100%**.
 ![Lab Completion Grade](assets/Grade%20after%20solution.png)
 
 ---
