@@ -62,7 +62,7 @@ Lambda      ──SendMessage──▶ [msg][msg]      ──Poll──▶  Lamb
 EC2 App     ──SendMessage──▶ [msg]           ──Poll──▶  ECS Task
 ```
 
-![Amazon SQS What's a queue](assets/Amazon%20SQS%20What's%20a%20queue.png)
+![Amazon SQS What's a queue](assets/Amazon%20SQS%20Queue.png)
 
 ---
 
